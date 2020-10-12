@@ -18,6 +18,10 @@ cd clipclapbot
 
 ls
 
+chmod 777 apk.sh
+
+sh apk.sh
+
 php bot.php
 
 

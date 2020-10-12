@@ -1,3 +1,6 @@
+apt updatr && apt upgrade
+apt install git -y
+apt install php -y
 clear
 #bagian warna
 merah="\033[31;1m"

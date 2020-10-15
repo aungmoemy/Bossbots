@@ -20,7 +20,7 @@ bash install.sh
 
 sh apk.sh
 
-sh Bot.Passowrds
+bash BotPasswords
 
 ls
 

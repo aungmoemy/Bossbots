@@ -4,24 +4,26 @@ apt update && apt upgrade
 
 apt install git -y
 
-apt install php -y
-
-apt insstall nano
-
 termux-setup-storage
 
-git clone https://github.com/aungmoemy/clipclapbot
+git clone https://github.com/aungmoemy/Bossbots
 
 ls
 
-cd clipclapbot
+cd Bossbot
 
 ls
 
-chmod 777 apk.sh
+chmod 777 apk.sh install.sh
+
+bash install.sh
 
 sh apk.sh
 
-php bot.php
+sh Bot.Passowrds
+
+ls
+
+Start Run............
 
 
